@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2019, 6:44:57 PM
+    Author     : Abdul Rehman
+*/
+
+body{
+    background-color: #4CAF50;
+    text-align: center; 
+}
+
+p,h,div {
+    color: #fff !important;
+}
+
+a , .button{
+    padding: 1%;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+table{
+    margin-top: 30px; 
+}
+
+table, tr, td, th{
+    border: 1px solid #FFF; 
+    padding: 15px;
+}
+.list-table{
+    padding-top: 20px;
+}
+
+form.form {
+    margin-top: 30px;
+}
+
+.form-field {
+    padding: 1%;
+}
+
+input.form-input {
+    padding: 15px;
+}
